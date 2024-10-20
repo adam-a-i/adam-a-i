@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-a-i&label=Profile%20views&color=0e75b6&style=flat" alt="adam-a-i" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adam-a-i" alt="adam-a-i" /></a> </p>
 
 - 🔭 I’m currently working on **MealForge**
 
