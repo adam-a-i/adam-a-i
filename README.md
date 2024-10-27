@@ -18,7 +18,7 @@
   <img src="assets/generated/languages.svg" width="40%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycho-baller&theme=tokyonight&hide_border=false" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-a-i&theme=tokyonight&hide_border=false" width="55%" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
