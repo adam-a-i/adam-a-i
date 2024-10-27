@@ -11,12 +11,7 @@
 <a href="https://linkedin.com/in/adam-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-ai" height="30" width="40" /></a>
 <a href="https://instagram.com/cocopaelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cocopaelle" height="30" width="40" /></a>
 </p>
-<div float="left" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=blue-green" width="59%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycho-baller&layout=compact&langs_count=6&theme=blue-green&hide_border=true" width="40%" />
-  <img src="assets/generated/overview.svg" width="40%" /> 
-  <img src="assets/generated/languages.svg" width="40%" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-a-i&theme=tokyonight&hide_border=false" width="55%" />
 </div>
