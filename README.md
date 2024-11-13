@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Welcome to my GitHub profile! I work on projects in AI, robotics, and full stack development, combining these areas to build practical and creative tech solutions.</h3>
 
+<h3> View count <h3>
 <a href=#><img src="https://profile-counter.glitch.me/adam-a-i/count.svg" alt="View Count" width="200" align="right"></a>
 
 
