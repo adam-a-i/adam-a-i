@@ -18,8 +18,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,java,python&theme=light&perline=3)
-
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -60,6 +58,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+</p>
+
+<!-- Add the new skill icons for JavaScript, Java, and Python -->
+<h3 align="left">My Skills:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,java,python&theme=light&perline=3" alt="Skills" />
 </p>
 
 ---
