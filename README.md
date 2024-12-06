@@ -3,7 +3,7 @@
 <br>
 <h4 align="left">🔭 I’m currently working on <strong>AIExamify</strong></h4>
 
----
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,15 +15,14 @@
   </a>
 </p>
 
----
+<br>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,react,aws,pytorch,express,firebase,mongodb,mysql,nodejs,opencv,git&theme=light&perline=50" alt="Skills" />
 </p>
 
----
-
+<br>
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true&locale=en" alt="adam-a-i" />
