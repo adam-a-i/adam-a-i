@@ -17,19 +17,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java&theme=light&perline=50" alt="Languages" />
-</p>
-
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,aws&theme=light&perline=50" alt="Frameworks" />
-</p>
-
-<h3 align="left">Libraries:</h3>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,express,firebase,mongodb,mysql,nodejs,opencv,git&theme=light&perline=50" alt="Libraries" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,react,aws,pytorch,express,firebase,mongodb,mysql,nodejs,opencv,git&theme=light&perline=50" alt="Skills" />
 </p>
 
 ---
