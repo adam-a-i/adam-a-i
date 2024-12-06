@@ -18,6 +18,8 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,java,python&theme=light&perline=3)
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
