@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Welcome to my GitHub profile! I work on projects in AI, robotics, and full stack development, combining these areas to build practical and creative tech solutions.</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="left">Welcome to my GitHub profile! I work on projects in AI, robotics, and full stack development, combining these areas to build practical and creative tech solutions.</h3>
 <br>
-<h4 align="center">🔭 I’m currently working on <strong>AIExamify</strong></h4>
+<h4 align="left">🔭 I’m currently working on <strong>AIExamify</strong></h4>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/adam-ai" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-ai" height="30" width="40" />
   </a>
@@ -17,8 +17,8 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -62,15 +62,15 @@
 
 ---
 
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true&locale=en" alt="adam-a-i" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-a-i&" alt="adam-a-i" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-a-i&show_icons=true&locale=en&layout=compact" alt="adam-a-i" />
 </p>
