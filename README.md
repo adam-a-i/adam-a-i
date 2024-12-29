@@ -3,7 +3,7 @@
 <h3 align="left">I'm Adam, and I'm currently studying Computer Science.</h3>
 <h3 align="left">I work on projects in AI, robotics, and full stack development, combining these areas to build practical and creative tech solutions.</h3>
 <br>
-<h4 align="left">🔭 I’m currently working on <strong>AIExamify</strong></h4>
+<h4 align="left">🔭 I’m currently working on <strong>Spotune</strong></h4>
 
 <h1></h1>
 
