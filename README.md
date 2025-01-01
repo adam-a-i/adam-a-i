@@ -4,7 +4,7 @@
 <h3 align="left">I work on projects in AI, robotics, and full stack development, combining these areas to build practical and creative tech solutions.</h3>
 <br>
 <h4 align="left">🔭 I’m currently working on <strong>Spotune</strong></h4>
-
+![Metrics](https://metrics.lecoq.io/adam-a-i?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDubai)
 <h1></h1>
 
 <h3 align="left">Connect with me:</h3>
