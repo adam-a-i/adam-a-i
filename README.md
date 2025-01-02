@@ -25,14 +25,57 @@
 <h1></h1>
 
 <h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true&locale=en" alt="adam-a-i" />
-</p>
+<div align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adam-a-i&theme=github_dark">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adam-a-i&theme=nord_bright">
+  </picture>
 
-<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-a-i&theme=github_dark">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adam-a-i&theme=nord_bright">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adam-a-i&theme=github_dark">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adam-a-i&theme=nord_bright">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adam-a-i&theme=github_dark">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adam-a-i&theme=nord_bright">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adam-a-i&theme=github_dark&utcOffset=8">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adam-a-i&theme=nord_bright&utcOffset=8">
+  </picture>
+  </br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-a-i&layout=compact&theme=github_dark&utcOffset=8">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-a-i&layout=compact&theme=github_dark&utcOffset=8">
+  </picture>
+  </br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=adam-a-i&label=Profile%20views&color=999999&style=flat"
+      alt="Profile views badge" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrcmUyN3NxNGd1Yjk3bWdzaGF1Zm5zMXVnem45ZHo2dnV5aGdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1HdiobjzYIrm/giphy.gif" width="27"/> 
+  </p>
+</div>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-a-i&" alt="adam-a-i" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-a-i&show_icons=true&locale=en&layout=compact" alt="adam-a-i" />
-</p>
