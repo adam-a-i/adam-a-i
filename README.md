@@ -53,10 +53,3 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrcmUyN3NxNGd1Yjk3bWdzaGF1Zm5zMXVnem45ZHo2dnV5aGdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1HdiobjzYIrm/giphy.gif" width="27"/> 
   </p>
 </div>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-a-i&" alt="adam-a-i" />
-</p>
-
