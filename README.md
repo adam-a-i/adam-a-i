@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World! 👋</h1>
+<h1 align="left">Hello👋</h1>
 <h3 align="left">I'm Adam – a passionate Computer Science student, AI enthusiast, and full-stack wizard.</h3>
 <h3 align="left">I blend AI, robotics, and web development to craft innovative and creative tech solutions.</h3>
 <br>
