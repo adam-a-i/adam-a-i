@@ -28,17 +28,6 @@
   <picture>
     <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adam-a-i&theme=dark">
   </picture>
-
-  <!-- GitHub Stats -->
-  <picture>
-    <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adam-a-i&theme=dark">
-  </picture>
-
-  <!-- Productive Time -->
-  <picture>
-    <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adam-a-i&theme=dark&utcOffset=8">
-  </picture>
-
   <br>
 
   <!-- Top Languages -->
