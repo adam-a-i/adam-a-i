@@ -1,4 +1,4 @@
-<table><th><h2 align="center">ABOUTME.txt</h2></th>
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;"> <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
   <h4>Hey I'm Adam :) I love building and I'm into ML🤖 and software engineering👨‍💻! </h4>
    <h4> I'm currently doing my undergraduate degree🎓 in Computer Science at United Arab Emirates University</h4>
@@ -29,12 +29,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <!-- Profile Details -->
-  <picture>
     <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true">
-  </picture>
   <br>
-</table>
+</table> </div>
   <!-- Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=adam-a-i&label=Profile%20views&color=999999&style=flat" alt="Profile views badge" />
