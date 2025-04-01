@@ -1,21 +1,25 @@
-<h1 align="left">Hello👋</h1>
-<h3 align="left">I'm Adam 
-<br>
-<h3 align="left">Let’s Connect:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/adam-ai" target="_blank">
+<table><th><h2 align="center">ABOUTME.txt</h2></th>
+<tr><td>
+  <h4>Hey I'm Adam :) I love building and I'm into ML🤖 and software engineering👨‍💻! </h4>
+   <h4> I'm currently doing my undergraduate degree🎓 in Computer Science at United Arab Emirates University</h4>
+
+
+> 🔭 I’m currently learning **problem solving techniques and ML**
+
+> 👥 I’m looking to collaborate on **more machine learning projects**
+
+> 📫 Reach out to me at adamyehialy@gmail.com or <a href="https://linkedin.com/in/adam-ai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/cocopaelle" target="_blank">
+  </a> <a href="https://instagram.com/cocopaelle" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-</p>
 
+</table>
 <hr>
 
 <h3 align="left">🔧 My Skills:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,react,aws,pytorch,express,firebase,mongodb,mysql,nodejs,opencv,git,cpp,tensorflow,scikit-learn&theme=dark&perline=50" alt="Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,cpp,react,pytorch,express,mongodb,mysql,nodejs,git,scikit-learn&theme=dark&perline=50" alt="Skills" />
 </p>
 
 <hr>
