@@ -2,7 +2,8 @@
 <tr><td>
   <h4>Hey I'm Adam :) I love building and I'm into ML🤖 and software engineering👨‍💻! </h4>
    <h4> I'm currently doing my undergraduate degree🎓 in Computer Science at United Arab Emirates University</h4>
-<a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
+<a href=#><img src="https://64.media.tumblr.com/2f1173dd4f5df37b9643d4179c336929/tumblr_n9sdgvnjgk1tfsn81o1_400.gifv" alt="Tech" align="right" width="50%"></a>
+
 
 
 > 🔭 I’m currently learning **problem solving techniques and ML**
@@ -14,8 +15,9 @@
   </a> <a href="https://instagram.com/cocopaelle" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+<p margin-top= 24px align="center"><a href="https://adamibrahim.vercel.app/"><img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="35"></a><a margin-top= 24px href="https://adamibrahim.vercel.app/" target="_blank">Personal Website</a></p>
 
-</table>
+
 <hr>
 
 <h3 align="left">🔧 My Skills:</h3>
@@ -29,17 +31,10 @@
 <div align="center">
   <!-- Profile Details -->
   <picture>
-    <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adam-a-i&theme=dark">
+    <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true">
   </picture>
   <br>
-
-  <!-- Top Languages -->
-  
-<picture>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-a-i&layout=compact&theme=dark&utcOffset=8&cacheBuster=123456">
-  </picture>
-  <br>
-  
+</table>
   <!-- Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=adam-a-i&label=Profile%20views&color=999999&style=flat" alt="Profile views badge" />
