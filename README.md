@@ -12,9 +12,6 @@
         <a href="https://linkedin.com/in/adam-ai" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a> 
-        <a href="https://instagram.com/cocopaelle" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-        </a>
         <p style="margin-top: 24px;" align="center">
           <a href="https://adamibrahim.vercel.app/">
             <img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="35">
