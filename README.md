@@ -19,15 +19,6 @@
           <a style="margin-top: 24px;" href="https://adamibrahim.vercel.app/" target="_blank">Personal Website</a>
         </p>
         <hr>
-        <h3 align="left">🔧 My Skills:</h3>
-        <p align="left">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,java,cpp,react,pytorch,express,mongodb,mysql,nodejs,git,scikit-learn&theme=dark&perline=50" alt="Skills" style="max-width: 100%;" />
-        </p>
-        <hr>
-        <h3 align="left">📊 GitHub Stats:</h3>
-        <div align="center">
-          <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api?username=adam-a-i&show_icons=true" style="max-width: 100%;">
-        </div>
       </td>
     </tr>
   </table>
